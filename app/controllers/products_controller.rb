@@ -13,7 +13,7 @@ class ProductsController < ApplicationController
     render plain: product.description
   end
 
-  def serializes
+  def data
 
   end
   def new
