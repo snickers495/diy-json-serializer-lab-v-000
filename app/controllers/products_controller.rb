@@ -14,6 +14,8 @@ class ProductsController < ApplicationController
   end
 
   def serializes
+
+  end
   def new
     @product = Product.new
   end
