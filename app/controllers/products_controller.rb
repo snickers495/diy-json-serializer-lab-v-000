@@ -13,6 +13,7 @@ class ProductsController < ApplicationController
     render plain: product.description
   end
 
+  
   def new
     @product = Product.new
   end
