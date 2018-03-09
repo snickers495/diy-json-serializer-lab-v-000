@@ -1,4 +1,4 @@
 class ProductSerializer
-  def self.serialize
+  def self.serialize(product)
 
 end
