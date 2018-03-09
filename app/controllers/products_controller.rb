@@ -15,7 +15,7 @@ class ProductsController < ApplicationController
 
   def data
     product = Product.find(params[:id])
-    
+    render 
   end
   def new
     @product = Product.new
