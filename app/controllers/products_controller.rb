@@ -14,7 +14,7 @@ class ProductsController < ApplicationController
   end
 
   def data
-
+    
   end
   def new
     @product = Product.new
