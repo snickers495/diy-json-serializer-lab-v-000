@@ -1,4 +1,4 @@
-lear# DIY JSON Serializer Lab
+# DIY JSON Serializer Lab
 
 ## Objectives
 
